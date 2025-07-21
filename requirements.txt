@@ -1,4 +1,5 @@
-Flask
-tensorflow
-Pillow
-gunicorn
+flask
+flask-cors
+requests
+pillow
+ultralytics
